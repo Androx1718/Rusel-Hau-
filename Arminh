@@ -1,0 +1,19 @@
+
+
+echo "# Rusel-Hau-" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Androx1718/Rusel-Hau -.git
+ git push -u origen principalgit remoto agregar origen https://github.com/Androx1718/Rusel-Hau-.git
+ git rama -M principal 
+git push -u origen principalgit remoto agregar origen https://github.com/Androx1718/Rusel-Hau-.git
+ git rama -M principal 
+git push -u origen principalgit remoto agregar origen https://github.com/Androx1718/Rusel-Hau-.git
+ git rama -M principal 
+git push -u origen principalgit remoto agregar origen https://github.com/Androx1718/Rusel-Hau-.git
+ git rama -M principal 
+git push -u origen principalgit remoto agregar origen https://github.com/Androx1718/Rusel-Hau-.git
+ git rama -M principal 
+git push -u origen principal
